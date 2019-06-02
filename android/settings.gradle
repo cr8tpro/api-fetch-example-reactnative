@@ -1,0 +1,3 @@
+rootProject.name = 'cocktail_rn'
+
+include ':app'
